@@ -1,0 +1,8 @@
+.idea/
+*.iml
+target/
+logs/
+*.log
+service/service.iml
+web/web.iml
+dbmanager.iml
