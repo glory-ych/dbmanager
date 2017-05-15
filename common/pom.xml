@@ -9,19 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>service</artifactId>
-    <dependencies>
-        <dependency>
-            <groupId>com.glory</groupId>
-            <artifactId>api</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.glory</groupId>
-            <artifactId>dao</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
+    <artifactId>common</artifactId>
 
 
 </project>

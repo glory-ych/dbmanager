@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello dbManager!</h2>
+<h2>Coupon-User</h2>
 </body>
 </html>
